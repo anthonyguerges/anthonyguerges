@@ -1,7 +1,10 @@
 <h1>Hi, I'm Anthony! I'm a computer science and AI student.</h1>
 
-
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Natural Language Engineering Projects</b>
   - [natural language processing techniques specifically POS-tagging and the Naive Bayes classification](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/NLE_project.ipynb)
+  
+- <b>Investigating Genetic Algorithms for Dynamic Control Optimisation</b>
+  - [Report](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/Investigating%20Genetic%20Algorithms%20for%20Dynamic%20Control%20Optimisation/AIAB%20Report%20Coursework%20No2%20CandNo%20262809.pdf) 
+  - [Code](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/Investigating%20Genetic%20Algorithms%20for%20Dynamic%20Control%20Optimisation/AIAB_Coursework_No2%20(1).ipynb) 
