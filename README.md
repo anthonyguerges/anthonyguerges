@@ -13,5 +13,5 @@
   - [Report](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/Face%20Alignment%20and%20Lips%20and%20Eye%20Colour%20Modification/CV%20report.pdf)
   - [Code](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/Face%20Alignment%20and%20Lips%20and%20Eye%20Colour%20Modification/Copy%20of%20Final_CV_code.ipynb) 
 
-- <b>Artificial Neural Networks-Based Classification of Electroneurographic (ENG) Signals for Implanted Nerve Interfaces</b>
+- <b>Video Presentation - Artificial Neural Networks-Based Classification of Electroneurographic (ENG) Signals for Implanted Nerve Interfaces</b>
   - [Video Presentation](https://youtu.be/5bPMPLBokOI)
