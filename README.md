@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Natural Language Engineering Project</b>
-  - [natural language processing techniques specifically POS-tagging and the Naive Bayes classification](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/NLE_project.ipynb)
+- <b>Dissertation – Rational Reimplementation of Brian Funt’s WHISPER: A Classic AI System</b>  
+  - [Report](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/WHISPER/WHISPER_Dissertation_Report.pdf)  
+- <b>natural language processing techniques - POS-tagging and Naive Bayes classification</b>
+  - [Colab Notebook](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/NLE_project.ipynb)
   
 - <b>Investigating Genetic Algorithms for Dynamic Control Optimisation</b>
   - [Report](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/Investigating%20Genetic%20Algorithms%20for%20Dynamic%20Control%20Optimisation/AIAB%20Report%20Coursework%20No2%20CandNo%20262809.pdf) 
