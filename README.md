@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! I'm a computer science and AI student.</h1>
+<h1>Hi, I'm Anthony! I'm a Computer Science and AI Graduate.</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
