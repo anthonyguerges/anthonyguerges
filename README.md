@@ -4,7 +4,7 @@
 
 - <b>Dissertation – Rational Reimplementation of Brian Funt’s WHISPER: A Classic AI System</b>  
   - [Report](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/WHISPER/WHISPER_Dissertation_Report.pdf)  
-- <b>natural language processing techniques - POS-tagging and Naive Bayes classification</b>
+- <b>Natural Language Processing Techniques - POS-tagging and Naive Bayes classification</b>
   - [Colab Notebook](https://github.com/anthonyguerges/anthonyguerges/blob/main/Projects/NLE_project.ipynb)
   
 - <b>Investigating Genetic Algorithms for Dynamic Control Optimisation</b>
